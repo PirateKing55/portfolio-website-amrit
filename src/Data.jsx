@@ -243,6 +243,16 @@ export const projects = [
   },
   {
     id: 6,
+    img: interviewroom,
+    category: 'Full Stack',
+    title: 'Interviewroom',
+    description:
+      'A job interview preparation platform powered by Vapi AI Voice agents.',
+    websiteLink: 'https://interviewroom.amrit.work/',
+    githubLink: 'https://github.com/PirateKing55/interviewroom',
+  },
+  {
+    id: 7,
     img: teledrive,
     category: 'Full Stack',
     title: 'Teledrive',
@@ -252,7 +262,7 @@ export const projects = [
     githubLink: 'https://github.com/PirateKing55/teledrive',
   },
   {
-    id: 7,
+    id: 8,
     img: dripkart,
     category: 'Full Stack',
     title: 'Dripkart',
@@ -262,7 +272,7 @@ export const projects = [
     githubLink: 'https://github.com/PirateKing55/dripkart',
   },
   {
-    id: 8,
+    id: 9,
     img: staytune,
     category: 'Full Stack',
     title: 'Staytune',
@@ -272,7 +282,7 @@ export const projects = [
     githubLink: 'https://github.com/PirateKing55/staytune',
   },
   {
-    id: 9,
+    id: 10,
     img: microservice,
     category: 'Microservices',
     title: 'Book Lending Microservice',
@@ -282,7 +292,7 @@ export const projects = [
     githubLink: 'https://github.com/PirateKing55/docker-nginx-microservice',
   },
   {
-    id: 10,
+    id: 11,
     img: invy,
     category: 'Full Stack',
     title: 'Invy',
