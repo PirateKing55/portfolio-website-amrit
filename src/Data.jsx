@@ -8,6 +8,7 @@ import teledrive from './assets/teledrive.png'
 import pixelfun from './assets/pixelfun.png'
 import golangBackend from './assets/golang-backend.png'
 import microservice from './assets/microservice.png'
+import interviewroom from './assets/interviewroom.png'
 
 import react from './assets/react.png'
 
